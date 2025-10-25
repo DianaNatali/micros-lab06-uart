@@ -1,4 +1,4 @@
-# Lab06: Comunicación UART en PIC18F45K22
+# Lab06: Comunicación UART con PIC18F45K22
 
 ## Integrantes
 
