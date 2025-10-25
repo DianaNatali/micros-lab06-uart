@@ -1,11 +1,11 @@
-# Lab04: Comunicación UART en PIC18F45K22
+# Lab06: Comunicación UART en PIC18F45K22
 
 ## Integrantes
 
-
 ## Documentación
 
+## Diagramas
 
-## Implementación
+## Evidencias de implementación
 
 
